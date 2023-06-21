@@ -8,3 +8,4 @@ The aim of this project is to build a multi-task learning model for gender and a
 
 - Typical data science tools - `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`.
 - Deep learning frameworks - `PyTorch`, `PyTorch Lightning`.
+- Model interpretation tools - `LIME`.
